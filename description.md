@@ -1,8 +1,5 @@
 # Polymagnets
 
-[Jupyter Notebook](README.ipynb)
-
-
 Messing around with creating interesting magnetic configurations with 3d printing and little rare earth magnets. Here is a video from my first spring/latch configuration [^](https://twitter.com/dmiracle/status/1078543165286768641).
 
 ## Build
