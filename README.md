@@ -3,7 +3,9 @@
 [Jupyter Notebook](README.ipynb)
 
 
-Messing around with creating interesting magnetic configurations with 3d printing and little rare earth magnets. Here is a video from my first spring/latch configuration: ![](./assets/video.gif)
+Messing around with creating interesting magnetic configurations with 3d printing and little rare earth magnets. Here is a video from my first spring/latch configuration: 
+
+![](./assets/video.gif)
 
 ## Build
 
